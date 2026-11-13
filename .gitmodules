@@ -4,3 +4,9 @@
 [submodule "ml-practice-00template"]
 	path = ml-practice-00template
 	url = git@github.com:tugawa/ml-practice-00template.git
+[submodule "compiler-el-00template"]
+	path = compiler-el-00template
+	url = git@github.com:tugawa/compiler-el-00template.git
+[submodule "compiler-el-00test"]
+	path = compiler-el-00test
+	url = git@github.com:tugawa/compiler-el-00test.git
