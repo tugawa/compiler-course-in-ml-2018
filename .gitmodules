@@ -1,0 +1,6 @@
+[submodule "ml-practice-00test"]
+	path = ml-practice-00test
+	url = git@github.com:tugawa/ml-practice-00test.git
+[submodule "ml-practice-00template"]
+	path = ml-practice-00template
+	url = git@github.com:tugawa/ml-practice-00template.git
