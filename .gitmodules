@@ -10,3 +10,12 @@
 [submodule "compiler-el-00test"]
 	path = compiler-el-00test
 	url = git@github.com:tugawa/compiler-el-00test.git
+[submodule "compiler-sl-00template"]
+	path = compiler-sl-00template
+	url = git@github.com:kut-info-compiler/compiler-sl-00template.git
+[submodule "compiler-tl-00template"]
+	path = compiler-tl-00template
+	url = git@github.com:kut-info-compiler/compiler-tl-00template.git
+[submodule "compiler-tl-00test"]
+	path = compiler-tl-00test
+	url = git@github.com:kut-info-compiler/compiler-tl-00test.git
