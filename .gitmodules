@@ -1,6 +1,6 @@
 [submodule "ml-practice-00test"]
 	path = ml-practice-00test
-	url = git@github.com:tugawa/ml-practice-00test.git
+	url = git@github.com:tugawa/compiler-tl-00test.git
 [submodule "ml-practice-00template"]
 	path = ml-practice-00template
 	url = git@github.com:tugawa/ml-practice-00template.git
@@ -12,10 +12,10 @@
 	url = git@github.com:tugawa/compiler-el-00test.git
 [submodule "compiler-sl-00template"]
 	path = compiler-sl-00template
-	url = git@github.com:kut-info-compiler/compiler-sl-00template.git
+	url = git@github.com:tugawa/compiler-sl-00template.git
 [submodule "compiler-tl-00template"]
 	path = compiler-tl-00template
-	url = git@github.com:kut-info-compiler/compiler-tl-00template.git
+	url = git@github.com:tugawa/compiler-tl-00template.git
 [submodule "compiler-tl-00test"]
 	path = compiler-tl-00test
 	url = git@github.com:kut-info-compiler/compiler-tl-00test.git
