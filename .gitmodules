@@ -18,4 +18,4 @@
 	url = git@github.com:tugawa/compiler-tl-00template.git
 [submodule "compiler-tl-00test"]
 	path = compiler-tl-00test
-	url = git@github.com:kut-info-compiler/compiler-tl-00test.git
+	url = git@github.com:tugawa/compiler-tl-00test.git
